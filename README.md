@@ -99,15 +99,6 @@ pie showData
 ## 🎵 Music / 音乐
 
 ### 🎧 Listening / 常听
-```mermaid
-pie
-    title Music Genres / 音乐类型偏好
-    "POP" : 30
-    "Electronic" : 25
-    "Rock" : 20
-    "Hip-hop" : 15
-    "Classical" : 10
-```
 
 | Genre / 类型 | Artists / 代表艺人 |
 |-------------|-------------------|
