@@ -62,12 +62,12 @@ pie showData
 
 | Skill / 技能 | Level / 水平 | Note / 备注 |
 |-------------|-----------|-----------|
-| **Python** | ⭐⭐⭐⭐⭐ | 主力语言，用于人工智能/脚本 |
-| **Flutter** | ⭐⭐⭐⭐ | 跨端开发，目前不打算继续使用了 |
+| **Python** | ⭐⭐⭐⭐ | 主力语言，用于人工智能/脚本 |
+| **Flutter** | ⭐⭐⭐ | 跨端开发，目前不打算继续使用了 |
 | **JavaScript** | ⭐⭐⭐ | 前后端一锅端，Next.js 个人网站 |
 | **PHP** | ⭐⭐⭐ | 旧版网站后端，将迁移至 nodejs |
 | **MySQL** | ⭐⭐⭐ | 基础数据库操作 |
-| **Premiere Pro** | ⭐⭐⭐⭐⭐ | 视频剪辑主力工具 |
+| **Premiere Pro** | ⭐⭐⭐⭐ | 视频剪辑主力工具 |
 | **After Effects** | ⭐⭐⭐ | 基础动效制作 |
 | **Blender** | ⭐ | 3D 入门探索中 |
 
@@ -84,8 +84,8 @@ pie showData
 
 | Game / 游戏 | Progress / 进度 | Notes / 备注 |
 |------------|----------------|-------------|
-| 🗡️ **Elden Ring** | ████████░░ 80% | ~55h, 卡在黑剑&女武神，快通关了 |
-| 🤠 **RDR2** | ███████░░░ 75% | <60h, 养老式玩法，第三章探索中 |
+| 🗡️ **Elden Ring** | ████████░░ 80% | ~55h, 卡在玛莲妮亚&艾尔登之兽，快通关了 |
+| 🤠 **RDR2** | ███████░░░ 75% | <70h, 养老式玩法，已玩到第六章 |
 | 👾 **Among Us** | ██████░░░░ 60% | The Skeld 熟练，其他图待解锁 |
 | 🧱 **Minecraft** | ████████░░ 80% | 1.16.5 入坑，原版联机冲全进度 |
 | 🚗 **GTAV(OL)** | ░░░░░░░░░░ ❌ | *已弃坑 / Abandoned* |
@@ -113,8 +113,9 @@ pie showData
 >  Haven't touched piano for ~6 years, recently started again!
 
 **Currently Practicing / 近期练习曲目：**
-1. Variations in G Major - Beethoven
-2. City of Stars - La La Land OST
+1. Rondo Alla Turca - Wolfgang Mozart
+2. Nocturne Op.9 No.2 - Frederic Chopin
+3. City of Stars - La La Land OST
 
 ---
 
