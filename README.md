@@ -16,7 +16,7 @@
 ## 📝 About Me / 关于我
 
 >  一个爱写代码👨‍💻、努力把点子变成作品的普通中学生，也喜欢打游戏🎮、听音乐🎵、做运动⚽  
->  A regular middle school student who loves coding 👨‍💻 and turning ideas into projects. Also enjoys gaming 🎮, music 🎵, and sports ⚽.
+>  A high school student who loves coding 👨‍💻 and turning ideas into projects. Also enjoys gaming 🎮, music 🎵, and sports ⚽.
 
 <div align="center">
 
