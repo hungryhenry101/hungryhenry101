@@ -39,26 +39,7 @@
 
 ### Skills Overview / 技能概览
 
-```mermaid
-pie showData
-    title Programming Skills / 编程技能
-    "Python" : 50
-    "Flutter" : 50
-    "PHP" : 40
-    "JavaScript" : 30
-    "MySQL" : 30
-```
-
-```mermaid
-pie showData
-    title Video Editing / 视频剪辑
-    "Premiere Pro" : 60
-    "After Effects" : 30
-    "Blender" : 10
-```
-
-<details>
-<summary><strong>Skill Details / 技能详情</strong></summary>
+<strong>Skill Details / 技能详情</strong>
 
 | Skill / 技能 | Level / 水平 | Note / 备注 |
 |-------------|-----------|-----------|
@@ -73,14 +54,11 @@ pie showData
 
 > 💡 *自我评价仅供参考，持续学习中~ / Self-assessment for reference only, always learning~*
 
-</details>
-
 ---
 
 ## 🎮 Gaming / 游戏时光
 
-<details>
-<summary><strong>🎮 Currently Playing / 正在游玩</strong></summary>
+<strong>🎮 Currently Playing / 正在游玩</strong>
 
 | Game / 游戏 | Progress / 进度 | Notes / 备注 |
 |------------|----------------|-------------|
@@ -91,8 +69,6 @@ pie showData
 | 🚗 **GTAV(OL)** | ░░░░░░░░░░ ❌ | *已弃坑 / Abandoned* |
 
 > 📌 *按入坑顺序从新到旧排序 / Sorted by join date (newest first)*
-
-</details>
 
 ---
 
@@ -171,11 +147,4 @@ pie showData
 
 ---
 
-<div align="center">
-
-*Last updated: 2026*  
-*Made with ❤️ by HungryHenry*
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=hungryhenry101%2Fhungryhenry101&labelColor=%23373a42&countColor=%23f47373&style=flat)
-
-</div>
