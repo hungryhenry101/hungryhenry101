@@ -52,18 +52,18 @@
 | **After Effects** | ⭐⭐⭐ | 基础动效制作 |
 | **Blender** | ⭐ | 3D 入门探索中 |
 
-> 💡 *自我评价仅供参考，持续学习中~ / Self-assessment for reference only, always learning~*
+> 💡 *自我评价仅供参考，持续学习中~ / Self-assessment for fun, always learning~*
 
 ---
 
-## 🎮 Gaming / 游戏时光
+## 🎮 Gaming / 游戏
 
 <strong>🎮 Currently Playing / 正在游玩</strong>
 
 | Game / 游戏 | Progress / 进度 | Notes / 备注 |
 |------------|----------------|-------------|
-| 🗡️ **Elden Ring** | ████████░░ 80% | ~55h, 卡在玛莲妮亚&艾尔登之兽，快通关了 |
-| 🤠 **RDR2** | ███████░░░ 75% | <70h, 养老式玩法，已玩到第六章 |
+| 🗡️ **Elden Ring** | ████████░░ 80% | ~55h, 卡在玛莲妮亚&艾尔登之兽，快通关了 Almost there |
+| 🤠 **RDR2** | ███████░░░ 75% | ~70h, 养老式玩法，亚瑟已死 Arthur is dead |
 | 👾 **Among Us** | ██████░░░░ 60% | The Skeld 熟练，其他图待解锁 |
 | 🧱 **Minecraft** | ████████░░ 80% | 1.16.5 入坑，原版联机冲全进度 |
 | 🚗 **GTAV(OL)** | ░░░░░░░░░░ ❌ | *已弃坑 / Abandoned* |
@@ -80,9 +80,9 @@
 |-------------|-------------------|
 | **POP** | 周杰伦, Taylor Swift, Maroon 5, 陈奕迅, MJ... |
 | **Electronic** | Avicii, Skrillex, Armin van Buuren, Fred again.. |
-| **Rock** | Queen, Led Zeppelin, Coldplay... |
+| **Rock** | Queen, Led Zeppelin, The Beatles... |
 | **Hip-hop** | Eminem, Dr.Dre, 2pac, JAY-Z... |
-| **Classical** | Chopin, Rachmaninoff, Vivaldi... |
+| **Classical** | Mahler, Rachmaninoff, Vivaldi... |
 
 ### 🎹 Playing Piano / 钢琴演奏
 >  大概有 6 年没碰钢琴了，最近重新开始弹了 🎹  
@@ -91,7 +91,7 @@
 **Currently Practicing / 近期练习曲目：**
 1. Rondo Alla Turca - Wolfgang Mozart
 2. Nocturne Op.9 No.2 - Frederic Chopin
-3. City of Stars - La La Land OST
+3. Moonlight Sonata - Beethoven
 
 ---
 
@@ -100,9 +100,10 @@
 ```mermaid
 pie showData
     title ⏱️ Sports Time Distribution / 运动时长占比
-    "⚽ Football / 足球" : 35
-    "🏀 Basketball / 篮球" : 35
-    "🎾 Tennis / 网球" : 20
+    "⚽ Football / 足球" : 25
+    "🏀 Basketball / 篮球" : 25
+    "🎾 Tennis / 网球" : 30
+    "🏸 Badminton / 羽毛球" : 10
     "🏓 Ping Pong / 乒乓球" : 6
     "🎱 Pool / 台球" : 4
 ```
@@ -129,6 +130,7 @@ pie showData
 [![Bilibili](https://img.shields.io/badge/Bilibili-hungryhenry-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/676875838)
 [![Email](https://img.shields.io/badge/Email-hungryhenry101@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungryhenry101@outlook.com)
 [![Website](https://img.shields.io/badge/Website-hungryhenry.cn-00A8E8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hungryhenry.cn)
+[![Instagram](https://img.shields.io/badge/Instagram-hungryhenry_101-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hungryhenry_101)
 
 </div>
 
